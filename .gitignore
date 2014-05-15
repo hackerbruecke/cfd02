@@ -1,0 +1,6 @@
+# All hidden files, object files, the executable and vtk files
+.*
+!.gitignore
+*.o
+lbsim
+*.vtk

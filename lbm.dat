@@ -1,0 +1,7 @@
+tau=.5882
+vwallx=.1
+vwally=0
+vwallz=0
+timesteps=1000
+timestepsPerPlotting=10
+xlength=16
